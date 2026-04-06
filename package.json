@@ -1,7 +1,6 @@
 {
   "name": "siteapp-bot",
   "version": "1.0.0",
-  "description": "Telegram Control Panel Bot",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
